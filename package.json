@@ -1,6 +1,6 @@
 {
   "name": "vali-valid-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React hook for vali-valid — useValiValid with async validation, i18n, criteriaMode, validateOnMount, and full TypeScript support",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.mjs",
@@ -33,7 +33,7 @@
   ],
   "license": "MIT",
   "author": "Felipe Rafael Montenegro Morriberon <teabajo_ubf@hotmail.com> (https://fm-portafolio.netlify.app/)",
-  "homepage": "https://vali-valid.dev/hook-api",
+  "homepage": "https://vali-valid-docs.netlify.app/hook-api",
   "bugs": {
     "url": "https://github.com/UBF21/Vali-Valid-React/issues"
   },
