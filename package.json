@@ -1,6 +1,6 @@
 {
   "name": "vali-valid-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React hook for vali-valid — useValiValid with async validation, i18n, criteriaMode, validateOnMount, and full TypeScript support",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.mjs",
@@ -12,14 +12,25 @@
       "require": "./dist/cjs/index.js"
     }
   },
-  "files": ["dist", "README.md"],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsup",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["react", "vali-valid", "validation", "form-validation", "hook", "typescript", "async-validation"],
+  "keywords": [
+    "react",
+    "vali-valid",
+    "validation",
+    "form-validation",
+    "hook",
+    "typescript",
+    "async-validation"
+  ],
   "license": "MIT",
   "author": "Felipe Rafael Montenegro Morriberon <teabajo_ubf@hotmail.com> (https://fm-portafolio.netlify.app/)",
   "homepage": "https://vali-valid.dev/hook-api",
